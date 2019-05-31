@@ -1,0 +1,205 @@
+a {
+  color: #212931;
+  border-bottom-color: rgba(33, 41, 49, 0.5);
+}
+
+  a:hover {
+    border-bottom-color: transparent;
+    color: #aaffe5 !important;
+  }
+
+  input[type="submit"]:hover,
+  input[type="reset"]:hover,
+  input[type="button"]:hover,
+  button:hover,
+  .button:hover {
+    box-shadow: inset 0 0 0 2px #aaffe5;
+    color: #aaffe5 !important;
+  }
+
+  input[type="submit"]:hover,
+  input[type="reset"]:hover,
+  input[type="button"]:hover,
+  button:hover,
+  .button:hover {
+    box-shadow: inset 0 0 0 2px #aaffe5;
+    color: #aaffe5 !important;
+  }
+
+  input[type="submit"].primary:hover,
+  input[type="reset"].primary:hover,
+  input[type="button"].primary:hover,
+  button.primary:hover,
+  .button.primary:hover {
+    background-color: #aaffe5;
+  }
+
+  input[type="text"]:focus,
+  input[type="password"]:focus,
+  input[type="email"]:focus,
+  select:focus,
+  textarea:focus {
+    border-color: #aaffe5;
+  }
+
+  input[type="checkbox"]:focus + label:before,
+  input[type="radio"]:focus + label:before {
+    border-color: #aaffe5;
+  }
+
+  ul.icons li a.icon:hover:before {
+    color: #aaffe5;
+  }
+
+  	ul.icons.alt li a.icon:hover:before {
+  		box-shadow: inset 0 0 0 2px #aaffe5;
+  	}
+
+    .pagination a:hover {
+			color: #aaffe5 !important;
+			border-color: #aaffe5;
+			z-index: 1;
+		}
+
+			.pagination a:hover + a, .pagination a:hover + span {
+				border-left-color: #aaffe5;
+			}
+
+      #intro a:hover {
+				border-bottom-color: transparent;
+				color: #aaffe5 !important;
+			}
+
+      #intro input[type="submit"]:hover,
+			#intro input[type="reset"]:hover,
+			#intro input[type="button"]:hover,
+			#intro button:hover,
+			#intro .button:hover {
+				box-shadow: inset 0 0 0 2px #aaffe5;
+				color: #aaffe5 !important;
+			}
+
+      #intro input[type="submit"]:hover,
+			#intro input[type="reset"]:hover,
+			#intro input[type="button"]:hover,
+			#intro button:hover,
+			#intro .button:hover {
+				box-shadow: inset 0 0 0 2px #aaffe5;
+				color: #aaffe5 !important;
+			}
+
+      #intro input[type="submit"].primary:hover,
+      #intro input[type="reset"].primary:hover,
+      #intro input[type="button"].primary:hover,
+      #intro button.primary:hover,
+      #intro .button.primary:hover {
+        background-color: #aaffe5;
+      }
+
+      #header a:hover {
+				border-bottom-color: transparent;
+				color: #aaffe5 !important;
+			}
+
+      #header .logo:hover {
+				border-color: #aaffe5 !important;
+				color: #aaffe5 !important;
+			}
+
+      #header .logo:hover {
+				border-color: #aaffe5 !important;
+				color: #aaffe5 !important;
+			}
+
+
+      		#nav ul.icons li a.icon:hover:before {
+      			color: #aaffe5;
+      		}
+
+          #nav ul.icons.alt li a.icon:hover:before {
+            box-shadow: inset 0 0 0 2px #aaffe5;
+          }
+
+          #nav a:hover {
+            border-bottom-color: transparent;
+            color: #aaffe5 !important;
+          }
+
+          #nav ul.links li.active a:hover {
+            color: #aaffe5 !important;
+          }
+
+          #footer a:hover {
+            border-bottom-color: transparent;
+            color: #aaffe5 !important;
+          }
+
+          #footer input[type="submit"]:hover,
+          #footer input[type="reset"]:hover,
+          #footer input[type="button"]:hover,
+          #footer button:hover,
+          #footer .button:hover {
+            box-shadow: inset 0 0 0 2px #aaffe5;
+            color: #aaffe5 !important;
+          }
+
+          #footer input[type="submit"]:hover,
+          #footer input[type="reset"]:hover,
+          #footer input[type="button"]:hover,
+          #footer button:hover,
+          #footer .button:hover {
+            box-shadow: inset 0 0 0 2px #aaffe5;
+            color: #aaffe5 !important;
+          }
+
+          #footer input[type="submit"].primary:hover,
+          #footer input[type="reset"].primary:hover,
+          #footer input[type="button"].primary:hover,
+          #footer button.primary:hover,
+          #footer .button.primary:hover {
+            background-color: #aaffe5;
+          }
+
+
+          			#footer input[type="text"]:focus,
+          			#footer input[type="password"]:focus,
+          			#footer input[type="email"]:focus,
+          			#footer select:focus,
+          			#footer textarea:focus {
+          				border-color: #aaffe5;
+          			}
+
+
+                		#footer input[type="checkbox"]:focus + label:before,
+                		#footer input[type="radio"]:focus + label:before {
+                			border-color: #aaffe5;
+                		}
+
+                    #footer ul.icons li a.icon:hover:before {
+                      color: #aaffe5;
+                    }
+
+                    #footer ul.icons.alt li a.icon:hover:before {
+                      box-shadow: inset 0 0 0 2px #aaffe5;
+                    }
+
+                    #footer .pagination a:hover {
+                      color: #aaffe5 !important;
+                      border-color: #aaffe5;
+                      z-index: 1;
+                    }
+
+                    #footer .pagination a:hover {
+                      color: #aaffe5 !important;
+                      border-color: #aaffe5;
+                      z-index: 1;
+                    }
+
+                    #footer .pagination a:hover + a, #footer .pagination a:hover + span {
+                      border-left-color: #aaffe5;
+                    }
+
+                    #copyright a:hover {
+                      border-bottom-color: transparent;
+                      color: #aaffe5 !important;
+                    }
